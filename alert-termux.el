@@ -1,4 +1,4 @@
-;;; alert-termux --- alert.el notifications on Termux
+;;; alert-termux --- alert.el notifications on Termux  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2018 Gergely Polonkai
 
