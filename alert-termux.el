@@ -1,11 +1,12 @@
-;;; alert-termux --- alert.el notifications on Termux  -*- lexical-binding: t; -*-
+;;; alert-termux.el --- alert.el notifications on Termux  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2018 Gergely Polonkai
 
 ;; Author: Gergely Polonkai <gergely@polonkai.eu>
-;; Keywords: termux, alert, notification
+;; Keywords: terminals
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24.4"))
+;; URL: https://github.com/gergelypolonkai/termux-alert
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
