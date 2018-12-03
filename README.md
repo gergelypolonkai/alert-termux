@@ -1,4 +1,5 @@
 # Termux notification style for alert.el
+[![MELPA](https://melpa.org/packages/alert-termux-badge.svg)](https://melpa.org/#/alert-termux)
 
 ## Installation
 
